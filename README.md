@@ -1,8 +1,4 @@
-# tugas-pbo-elearing
-Tugas PBO 2 Ai Nurul Hidayah
-📚 Sistem Absensi Mahasiswa Perpustakaan (JavaFX + MySQL)
-
-Latar Belakang
+# Latar Belakang
 Pada era digitalisasi, kebutuhan akan sistem absensi mahasiswa di perpustakaan semakin penting. Sistem absensi manual berbasis kertas rentan terhadap kesalahan dan kurang efisien. Dengan memanfaatkan teknologi desktop berbasis **JavaFX** dan database **MySQL**, diharapkan proses pencatatan kehadiran menjadi lebih cepat, akurat, dan mudah diakses.
 
  Alur Sistem
